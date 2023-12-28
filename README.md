@@ -59,7 +59,7 @@
 ![MySQL](	https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![VS](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![PostMan](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Java](https://img.shields.io/badge/-Javaa-000?&style=for-the-badge&logo=Java-Software&logoColor=0052CC)
+![Java](https://img.shields.io/badge/JAVA-E44C30?style=for-the-badge&logo=java&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-430098?style=for-the-badge&logo=SpringBoot&logoColor=white)
 ![RestApi](https://img.shields.io/badge/-RestApi%20Pi-C51A4A?style=for-the-badge&logo=RestApi-Pi) 
 ![Microservices](https://img.shields.io/badge/-Microservices-00979D?style=for-the-badge&logo=Microservices&logoColor=white) 
